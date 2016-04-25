@@ -1,0 +1,2 @@
+# SqueezeNet
+Squeeze using mxnet
